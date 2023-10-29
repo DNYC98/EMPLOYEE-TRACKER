@@ -29,12 +29,13 @@ To deploy this project run
 The command prompt will begin on your terminal
 ## Screenshots
 
-![Getting Started](./assets/images/Capture.PNG)
+![Capture](https://github.com/DNYC98/EMPLOYEE-TRACKER/assets/135191092/5313e6eb-8f90-4ce5-8bf6-84d79291aaf6)
 
 
 ## Video
 
-![](./assets/images/Untitled_%20Oct%2029,%202023%203_24%20PM.gif)
+![Untitled_ Oct 29, 2023 3_24 PM](https://github.com/DNYC98/EMPLOYEE-TRACKER/assets/135191092/58338827-a515-424c-ab1b-00b3db39823e)
+
 
 - [Video](https://drive.google.com/file/d/15ntq12CnpnoRNUVKnqm2pfBXuWaYa2S3/view)
 
