@@ -34,7 +34,7 @@ The command prompt will begin on your terminal
 
 ## Video
 
-![Untitled_ Oct 29, 2023 3_24 PM](https://github.com/DNYC98/EMPLOYEE-TRACKER/assets/135191092/58338827-a515-424c-ab1b-00b3db39823e)
+![Untitled_ Oct 29, 2023 3_24 PM](https://drive.google.com/file/d/18MuoDeWZy3ChWZkNy86Bvh5mWiyzXdz3/view)
 
 
 - [Video](https://drive.google.com/file/d/15ntq12CnpnoRNUVKnqm2pfBXuWaYa2S3/view)
